@@ -12,6 +12,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+      <h2>Three Words a Day!</h2>
       <button onClick={loginWidget}>Login</button>
       </header>
     </div>
